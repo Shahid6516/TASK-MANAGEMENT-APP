@@ -1,12 +1,12 @@
-#📝 Task Management App
+# 📝 Task Management App
 
-##A simple Task Management Application built with the MERN stack (MongoDB, Express, React, Node.js).
+## A simple Task Management Application built with the MERN stack (MongoDB, Express, React, Node.js).
 This app lets users create, read, update, and delete (CRUD) tasks in an easy-to-use interface.
 
 ---
 
 
-##🚀 Features
+## 🚀 Features
 
 ➕ Create tasks with title & description
 
@@ -22,7 +22,7 @@ This app lets users create, read, update, and delete (CRUD) tasks in an easy-to-
 
 💾 Data stored in MongoDB
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: React, Axios, TailwindCSS 
 
