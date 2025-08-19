@@ -3,6 +3,9 @@
 A simple Task Management Application built with the MERN stack (MongoDB, Express, React, Node.js).
 This app lets users create, read, update, and delete (CRUD) tasks in an easy-to-use interface.
 
+---
+
+
 🚀 Features
 
 ➕ Create tasks with title & description
